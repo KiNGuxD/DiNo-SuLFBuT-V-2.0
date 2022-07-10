@@ -46,7 +46,7 @@ FCKING DISCORD RULER MADE BY KINGU AND DEVELOPED ON DISCORD.JS MY DISCORD ID - 6
   
 ### SUPPORT ?? 
 
-[![](https://media.discordapp.net/attachments/995329412193067048/995599253588156426/unknown.png)](https://discord.gg/q4zjXqU8)
+[![](https://media.discordapp.net/attachments/995329412193067048/995599253588156426/unknown.png)](https://discord.gg/rF6a4mmJfj)
 [![](https://media.discordapp.net/attachments/995329412193067048/995598491856424970/unknown.png)]([https://discord.gg/q4zjXqU8](https://sites.google.com/view/rulethecord))
   
 `JOIN SO THAT U CAN GET ALL UPDATES HERE !!`
