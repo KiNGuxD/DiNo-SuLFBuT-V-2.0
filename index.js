@@ -108,7 +108,10 @@ client.on(`message`, async message => {
   const cd1 = message.content
   const command = cd1.toLowerCase()
   if(ACCESS === '1'){
-    var ownerman = 'FOR EVERYONE';
+    var ownerman = 'USERSELF';
+    if(message.author.id !== client.user.id){
+      return;
+    }
   }
   if (ACCESS === '2'){
     var ownerman = 'FOR OWNER';
@@ -1011,7 +1014,7 @@ message.channel.send(attachment);
   if(command.startsWith(`${PREFIX}saxchannel`)){
     const channel1 = message.content.replace(`${PREFIX}saxchannel `,'')
     const channel2 = client.channels.cache.get(`${channel1}`)
-    if(!channel1){
+    if(!channel2){
       message.channel.send(`**\`❌\` CHANNEL NOT MENTIONED !!**`)
       return;
     }
